@@ -33,7 +33,7 @@ I'm a Cloud & DevOps learner currently building hands-on skills with AWS and Dev
 ## 📁 Projects
 
 | # | Project | Description | Repository |
-| 01 | AWS IAM: Users, Groups & MFA | Hands-on practice with IAM users, groups, policies and MFA | [View](https://github.com/YOUR_USERNAME/aws-iam-user-group-mfa) |
+| 01 | AWS IAM: Users, Groups & MFA | Hands-on practice with IAM users, groups, policies and MFA | [View](https://github.com/manjiri-sonawane/aws-iam-user-group-mfa) |
 
 > More projects will be added as I complete each learning module.
 
